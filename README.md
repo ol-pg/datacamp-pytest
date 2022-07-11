@@ -1,2 +1,2 @@
 # datacamp-pytest
-https://app.travis-ci.com/ol-pg/datacamp-pytest.svg?branch=main
+[![Build Status](https://app.travis-ci.com/ol-pg/datacamp-pytest.svg?branch=main)](https://app.travis-ci.com/ol-pg/datacamp-pytest)
